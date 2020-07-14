@@ -1,0 +1,11 @@
+.wrap {
+    margin: auto;
+    height: auto;
+    width: 800px;
+    text-align: center;
+    border: 2px solid black;
+    font-size: 25px;
+}
+ul {
+    list-style: none;
+}
